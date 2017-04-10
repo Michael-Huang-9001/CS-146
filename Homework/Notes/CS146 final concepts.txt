@@ -1,0 +1,19 @@
+40 total:
+~ 15 MC:
+Graphs -> definition for cycle, adjanceny matrix representation
+postfix, infix (w/ parenthesis and w/o)
+Runtime of graph operations suchas adding edges, finding edges, vertices
+Graph terms: cycle, simple, cyclic
+% a key -> becomes hashcode
+AVLTree rules 
+
+Short:
+Recursion or boolean or value
+BFC (queue, outside first, then interior) / DFS (stack, depth first (interior))
+ALL HASHING, PROBING, ETC. Loadfactor = buckets filled/buckets, cuckoo hashing, Hopscotch
+2 AVLTrees (construct and add to)
+BST (code)
+DisjointSet (code, find or union)
+Recurrance: merge or quick
+Djiskra (min span, 
+Kustkal
